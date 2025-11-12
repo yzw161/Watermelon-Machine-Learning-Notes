@@ -1,0 +1,8 @@
+pip install -U scikit-learn
+
+conda install scikit-learn
+
+#安装sklearn,注意查阅版本要求
+https://scikit-learn.org/stable/index.html
+
+https://www.scikitlearn.com.cn/
